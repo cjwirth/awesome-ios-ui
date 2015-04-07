@@ -2,7 +2,6 @@ Animations and Transitions
 =====================
 Name | License | Demo
 --- | --- | ---
-[POP](https://github.com/facebook/pop) <br> [![](http://gh-btns.cjwirth.com/stars/facebook/pop)](https://github.com/facebook/pop/stargazers)<br>Animations: [Popping](https://github.com/schneiderandre/popping) | [MIT] | <img src="/assets/Popping1.gif" width="49%">
 [AnimatedTransitionGallery](https://github.com/shu223/AnimatedTransitionGallery) <br> [![](http://gh-btns.cjwirth.com/stars/shu223/AnimatedTransitionGallery)](https://github.com/shu223/AnimatedTransitionGallery/stargazers) | [Unknown](https://github.com/shu223/AnimatedTransitionGallery/issues/5) | <img src="/assets/AnimatedTransitionGallery1.gif">
 [RZTransitions](https://github.com/Raizlabs/RZTransitions) <br> [![](http://gh-btns.cjwirth.com/stars/Raizlabs/RZTransitions)](https://github.com/Raizlabs/RZTransitions/stargazers) | [MIT] | <img src="/assets/RZTransitions1.gif" width="49%">
 [DCAnimationKit](https://github.com/daltoniam/DCAnimationKit) <br> [![](http://gh-btns.cjwirth.com/stars/daltoniam/DCAnimationKit)](https://github.com/daltoniam/DCAnimationKit/stargazers) | [Apache License v2] | <img src="/assets/DCAnimationKit1.gif" width="49%"> <img src="/assets/DCAnimationKit2.gif" width="49%">

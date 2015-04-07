@@ -15,12 +15,12 @@ Inspired by [wasabeef]'s excellent [Android Version].
 * [Side Menu](#side-menu) - [file](/pages/SideMenu.md)
 * [Tab Bars](#tab-bars) - [file](/pages/TabBars.md)
 * [Table/Collection Views](#tablecollection-views) - [file](/pages/TableCollectionViews.md)
+* [User Input](#user-input) - [file](/pages/UserInput.md)
 
 Animations and Transitions
 =====================
 Name | License | Demo
 --- | --- | ---
-[POP](https://github.com/facebook/pop) <br> [![](http://gh-btns.cjwirth.com/stars/facebook/pop)](https://github.com/facebook/pop/stargazers)<br>Animations: [Popping](https://github.com/schneiderandre/popping) | [MIT] | <img src="/assets/Popping1.gif" width="49%">
 [AnimatedTransitionGallery](https://github.com/shu223/AnimatedTransitionGallery) <br> [![](http://gh-btns.cjwirth.com/stars/shu223/AnimatedTransitionGallery)](https://github.com/shu223/AnimatedTransitionGallery/stargazers) | [Unknown](https://github.com/shu223/AnimatedTransitionGallery/issues/5) | <img src="/assets/AnimatedTransitionGallery1.gif">
 [RZTransitions](https://github.com/Raizlabs/RZTransitions) <br> [![](http://gh-btns.cjwirth.com/stars/Raizlabs/RZTransitions)](https://github.com/Raizlabs/RZTransitions/stargazers) | [MIT] | <img src="/assets/RZTransitions1.gif" width="49%">
 [DCAnimationKit](https://github.com/daltoniam/DCAnimationKit) <br> [![](http://gh-btns.cjwirth.com/stars/daltoniam/DCAnimationKit)](https://github.com/daltoniam/DCAnimationKit/stargazers) | [Apache License v2] | <img src="/assets/DCAnimationKit1.gif" width="49%"> <img src="/assets/DCAnimationKit2.gif" width="49%">
@@ -35,15 +35,12 @@ Name | License | Demo
 [RKNotificationHub](https://github.com/cwRichardKim/RKNotificationHub) <br> [![](http://gh-btns.cjwirth.com/stars/cwRichardKim/RKNotificationHub)](https://github.com/cwRichardKim/RKNotificationHub/stargazers) | [MIT] | <img src="/assets/RKNotificationHub1.gif">
 [BBBadgeBarButtonItem](https://github.com/TanguyAladenise/BBBadgeBarButtonItem) <br> [![](http://gh-btns.cjwirth.com/stars/TanguyAladenise/BBBadgeBarButtonItem)](https://github.com/TanguyAladenise/BBBadgeBarButtonItem/stargazers) | [MIT] | <img src="/assets/BBBadgeBarButtonItem1.png">
 [JSBadgeView](https://github.com/JaviSoto/JSBadgeView) <br> [![](http://gh-btns.cjwirth.com/stars/JaviSoto/JSBadgeView)](https://github.com/JaviSoto/JSBadgeView/stargazers) | [MIT] | <img src="/assets/JSBadgeView1.png"> <img src="/assets/JSBadgeView2.png">
-[M13BadgeView](https://github.com/Marxon13/M13BadgeView) <br> [![](http://gh-btns.cjwirth.com/stars/Marxon13/M13BadgeView)](https://github.com/Marxon13/M13BadgeView/stargazers) | [MIT] | <img src="/assets/M13BadgeView1.png">
 
 Effects
 =====================
 Name | License | Demo
 --- | --- | ---
-[iOS-blur](https://github.com/JagCesar/iOS-blur) <br> [![](http://gh-btns.cjwirth.com/stars/JagCesar/iOS-blur)](https://github.com/JagCesar/iOS-blur/stargazers) | [MIT] | <img src="/assets/iOS-blur1.png" width="25%">
 [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) <br> [![](http://gh-btns.cjwirth.com/stars/Flipboard/FLAnimatedImage)](https://github.com/Flipboard/FLAnimatedImage/stargazers) | [MIT] | <img src="/assets/FLAnimatedImage1.gif" width="49%">
-[ReflectionView](https://github.com/nicklockwood/ReflectionView) <br> [![](http://gh-btns.cjwirth.com/stars/nicklockwood/ReflectionView)](https://github.com/nicklockwood/ReflectionView/stargazers) | [BSD-like](https://github.com/nicklockwood/ReflectionView/blob/master/LICENCE.md) | <img src="/assets/ReflectionView1.jpg">
 [PulsingHalo](https://github.com/shu223/PulsingHalo) <br> [![](http://gh-btns.cjwirth.com/stars/shu223/PulsingHalo)](https://github.com/shu223/PulsingHalo/stargazers) | [MIT] | <img src="/assets/PulsingHalo1.gif">
 
 Notifications and Alerts
@@ -71,7 +68,7 @@ Progress Views
 Name | License | Demo
 --- | --- | ---
 [MBProgressHUD](https://github.com/jdg/MBProgressHUD) <br> [![](http://gh-btns.cjwirth.com/stars/jdg/MBProgressHUD)](https://github.com/jdg/MBProgressHUD/stargazers) | [MIT] | <img src="/assets/MBProgressHUD1.png"> <img src="/assets/MBProgressHUD2.png"> <img src="/assets/MBProgressHUD3.png"> <img src="/assets/MBProgressHUD4.png"> <img src="/assets/MBProgressHUD5.png"> <img src="/assets/MBProgressHUD6.png"> <img src="/assets/MBProgressHUD7.png">
-[MRProgress](https://github.com/mrackwitz/MRProgress) <br> [![](http://gh-btns.cjwirth.com/stars/mrackwitz/MRProgress)](https://github.com/mrackwitz/MRProgress/stargazers) | [MIT] | <img src="/assets/MRProgress1.jpg"> <img src="/assets/MRProgress2.jpg"> <img src="/assets/MRProgress3.jpg"> <img src="/assets/MRProgress4.jpg"> <img src="/assets/MRProgress5.jpg"> <img src="/assets/MRProgress6.jpg"> <img src="/assets/MRProgress7.jpg">
+[MRProgress](https://github.com/mrackwitz/MRProgress) <br> [![](http://gh-btns.cjwirth.com/stars/mrackwitz/MRProgress)](https://github.com/mrackwitz/MRProgress/stargazers) | [MIT] | <img src="/assets/MRProgress2.jpg"> <img src="/assets/MRProgress4.jpg"> <img src="/assets/MRProgress6.jpg">
 [M13ProgressSuite](https://github.com/Marxon13/M13ProgressSuite) <br> [![](http://gh-btns.cjwirth.com/stars/Marxon13/M13ProgressSuite)](https://github.com/Marxon13/M13ProgressSuite/stargazers) | [MIT] | <img src="/assets/M13ProgressSuite1.gif"> <img src="/assets/M13ProgressSuite2.gif"> <img src="/assets/M13ProgressSuite3.gif"> <img src="/assets/M13ProgressSuite4.gif"> <img src="/assets/M13ProgressSuite5.gif"> <img src="/assets/M13ProgressSuite6.gif"> <img src="/assets/M13ProgressSuite7.gif"> <img src="/assets/M13ProgressSuite8.gif">
 [FFCircularProgressView](https://github.com/elbryan/FFCircularProgressView) <br> [![](http://gh-btns.cjwirth.com/stars/elbryan/FFCircularProgressView)](https://github.com/elbryan/FFCircularProgressView/stargazers) | [MIT] | <img src="/assets/FFCircularProgressView1.gif">
 
@@ -101,7 +98,7 @@ Name | License | Demo
 --- | --- | ---
 [MinimalTabBar](https://github.com/jamesdunay/MinimalTabBar) <br> [![](http://gh-btns.cjwirth.com/stars/jamesdunay/MinimalTabBar)](https://github.com/jamesdunay/MinimalTabBar/stargazers) | [MIT] | <img src="/assets/MinimalTabBar1.gif">
 [M13InfiniteTabBar](https://github.com/Marxon13/M13InfiniteTabBar) <br> [![](http://gh-btns.cjwirth.com/stars/Marxon13/M13InfiniteTabBar)](https://github.com/Marxon13/M13InfiniteTabBar/stargazers) | [MIT] | <img src="/assets/M13InfiniteTabBar1.gif" width="49%"> <img src="/assets/M13InfiniteTabBar2.gif" width="49%"> <img src="/assets/M13InfiniteTabBar3.png" width="49%">
-[MHTabBarController](https://github.com/hollance/MHTabBarController) <br> [![](http://gh-btns.cjwirth.com/stars/hollance/MHTabBarController)](https://github.com/hollance/MHTabBarController/stargazers) | [MIT] | <img src="/assets/MHTabBarController1.png">
+[FoldingTabBar.iOS](https://github.com/Yalantis/FoldingTabBar.iOS) | [] | <img src="/assets/FoldingTabBar.iOS1.gif">
 [GGTabBar](https://github.com/Goles/GGTabBar) <br> [![](http://gh-btns.cjwirth.com/stars/Goles/GGTabBar)](https://github.com/Goles/GGTabBar/stargazers) | [MIT] | <img src="/assets/GGTabBar1.png">
 [BFPaperTabBarController](https://github.com/bfeher/BFPaperTabBarController) <br> [![](http://gh-btns.cjwirth.com/stars/bfeher/BFPaperTabBarController)](https://github.com/bfeher/BFPaperTabBarController/stargazers) | [MIT] | <img src="/assets/BFPaperTabBarController1.gif">
 
@@ -112,10 +109,18 @@ Name | License | Demo
 [MPSkewed](https://github.com/MP0w/MPSkewed) <br> [![](http://gh-btns.cjwirth.com/stars/MP0w/MPSkewed)](https://github.com/MP0w/MPSkewed/stargazers) | [BSD-3] | <img src="/assets/MPSkewed1.gif" width="49%"> <img src="/assets/MPSkewed2.gif" width="49%">
 [RATreeView](https://github.com/Augustyniak/RATreeView) <br> [![](http://gh-btns.cjwirth.com/stars/Augustyniak/RATreeView)](https://github.com/Augustyniak/RATreeView/stargazers) | [MIT] | <img src="/assets/RATreeView1.gif" width="75%">
 [MosaicLayout](https://github.com/betzerra/MosaicLayout) <br> [![](http://gh-btns.cjwirth.com/stars/betzerra/MosaicLayout)](https://github.com/betzerra/MosaicLayout/stargazers) | [MIT] | <img src="/assets/MosaicLayout1.png">
-[PBJHexagon](https://github.com/piemonte/PBJHexagon) <br> [![](http://gh-btns.cjwirth.com/stars/piemonte/PBJHexagon)](https://github.com/piemonte/PBJHexagon/stargazers) | [MIT] | <img src="/assets/PBJHexagon1.gif" width="75%">
 [DSDynamicScrollView](https://github.com/damirstuhec/DSDynamicScrollView) <br> [![](http://gh-btns.cjwirth.com/stars/damirstuhec/DSDynamicScrollView)](https://github.com/damirstuhec/DSDynamicScrollView/stargazers) | MIT | <img src="/assets/DSDynamicScrollView1.gif">
 [CSStickyHeaderFlowLayout](https://github.com/jamztang/CSStickyHeaderFlowLayout) <br> [![](http://gh-btns.cjwirth.com/stars/jamztang/CSStickyHeaderFlowLayout)](https://github.com/jamztang/CSStickyHeaderFlowLayout/stargazers) | [MIT] | <img src="/assets/CSStickyHeaderFlowLayout1.gif" width="49%"> <img src="/assets/CSStickyHeaderFlowLayout2.gif" width="49%"> <img src="/assets/CSStickyHeaderFlowLayout3.gif" width="49%">
 [PathCover](https://github.com/JackTeam/PathCover) <br> [![](http://gh-btns.cjwirth.com/stars/JackTeam/PathCover)](https://github.com/JackTeam/PathCover/stargazers) | [MIT] | <img src="/assets/PathCover1.gif"> <img src="/assets/PathCover2.gif">
+[SAParallaxViewControllerSwift](https://github.com/szk-atmosphere/SAParallaxViewControllerSwift) <br> [![](http://gh-btns.cjwirth.com/stars/szk-atmosphere/SAParallaxViewControllerSwift)](https://github.com/szk-atmosphere/SAParallaxViewControllerSwift/stargazers) | [MIT] | <img src="/assets/SAParallaxViewControllerSwift1.gif"> <img src="/assets/SAParallaxViewControllerSwift2.gif">
+
+User Input
+=====================
+Name | License | Demo
+--- | --- | ---
+[RKRichTextView](https://github.com/ren6/RKRichTextView) <br> [![](http://gh-btns.cjwirth.com/stars/ren6/RKRichTextView)](https://github.com/ren6/RKRichTextView/stargazers) | [MIT] | <img src="/assets/RKRichTextView1.png">
+[ZSSRichTextEditor](https://github.com/nnhubbard/ZSSRichTextEditor) <br> [![](http://gh-btns.cjwirth.com/stars/nnhubbard/ZSSRichTextEditor)](https://github.com/nnhubbard/ZSSRichTextEditor/stargazers) | [MIT] | <img src="/assets/ZSSRichTextEditor1.gif">
+[RichEditorView](https://github.com/cjwirth/RichEditorView) <br> [![](http://gh-btns.cjwirth.com/stars/cjwirth/RichEditorView)](https://github.com/cjwirth/RichEditorView/stargazers) | [BSD3] | <img src="/assets/RichEditorView1.gif">
 
 
 [wasabeef]: https://github.com/wasabeef
