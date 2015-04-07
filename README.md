@@ -4,6 +4,8 @@ awesome-ios-ui
 A curated list of awesome iOS UI/UX libraries.
 Inspired by [wasabeef]'s excellent [Android Version].
 
+- Stay up to date with the author: [@cjwirth](https://twitter.com/cjwirth)
+
 ### Index
 * [Animations and Transitions](#animations-and-transitions) - [file](/pages/AnimationsTransitions.md)
 * [Badges](#badges) - [file](/pages/Badges.md)
