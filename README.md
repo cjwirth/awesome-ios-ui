@@ -4,8 +4,6 @@ awesome-ios-ui
 A curated list of awesome iOS UI/UX libraries.
 Inspired by [wasabeef]'s excellent [Android Version].
 
-- Stay up to date with the author: [@cjwirth](https://twitter.com/cjwirth)
-
 ### Index
 * [Animations and Transitions](#animations-and-transitions) - [file](/pages/AnimationsTransitions.md)
 * [Badges](#badges) - [file](/pages/Badges.md)
@@ -100,7 +98,7 @@ Name | License | Demo
 --- | --- | ---
 [MinimalTabBar](https://github.com/jamesdunay/MinimalTabBar) <br> [![](http://gh-btns.cjwirth.com/stars/jamesdunay/MinimalTabBar)](https://github.com/jamesdunay/MinimalTabBar/stargazers) | [MIT] | <img src="/assets/MinimalTabBar1.gif">
 [M13InfiniteTabBar](https://github.com/Marxon13/M13InfiniteTabBar) <br> [![](http://gh-btns.cjwirth.com/stars/Marxon13/M13InfiniteTabBar)](https://github.com/Marxon13/M13InfiniteTabBar/stargazers) | [MIT] | <img src="/assets/M13InfiniteTabBar1.gif" width="49%"> <img src="/assets/M13InfiniteTabBar2.gif" width="49%"> <img src="/assets/M13InfiniteTabBar3.png" width="49%">
-[FoldingTabBar.iOS](https://github.com/Yalantis/FoldingTabBar.iOS) | [] | <img src="/assets/FoldingTabBar.iOS1.gif">
+[FoldingTabBar.iOS](https://github.com/Yalantis/FoldingTabBar.iOS) <br> [![](http://gh-btns.cjwirth.com/stars/Yalantis/FoldingTabBar.iOS)](https://github.com/Yalantis/FoldingTabBar.iOS/stargazers) | [MIT] | <img src="/assets/FoldingTabBar.iOS1.gif">
 [GGTabBar](https://github.com/Goles/GGTabBar) <br> [![](http://gh-btns.cjwirth.com/stars/Goles/GGTabBar)](https://github.com/Goles/GGTabBar/stargazers) | [MIT] | <img src="/assets/GGTabBar1.png">
 [BFPaperTabBarController](https://github.com/bfeher/BFPaperTabBarController) <br> [![](http://gh-btns.cjwirth.com/stars/bfeher/BFPaperTabBarController)](https://github.com/bfeher/BFPaperTabBarController/stargazers) | [MIT] | <img src="/assets/BFPaperTabBarController1.gif">
 
@@ -122,7 +120,7 @@ Name | License | Demo
 --- | --- | ---
 [RKRichTextView](https://github.com/ren6/RKRichTextView) <br> [![](http://gh-btns.cjwirth.com/stars/ren6/RKRichTextView)](https://github.com/ren6/RKRichTextView/stargazers) | [MIT] | <img src="/assets/RKRichTextView1.png">
 [ZSSRichTextEditor](https://github.com/nnhubbard/ZSSRichTextEditor) <br> [![](http://gh-btns.cjwirth.com/stars/nnhubbard/ZSSRichTextEditor)](https://github.com/nnhubbard/ZSSRichTextEditor/stargazers) | [MIT] | <img src="/assets/ZSSRichTextEditor1.gif">
-[RichEditorView](https://github.com/cjwirth/RichEditorView) <br> [![](http://gh-btns.cjwirth.com/stars/cjwirth/RichEditorView)](https://github.com/cjwirth/RichEditorView/stargazers) | [BSD3] | <img src="/assets/RichEditorView1.gif">
+[RichEditorView](https://github.com/cjwirth/RichEditorView) <br> [![](http://gh-btns.cjwirth.com/stars/cjwirth/RichEditorView)](https://github.com/cjwirth/RichEditorView/stargazers) | [BSD-3] | <img src="/assets/RichEditorView1.gif">
 
 
 [wasabeef]: https://github.com/wasabeef
