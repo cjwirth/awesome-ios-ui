@@ -13,7 +13,7 @@ Inspired by [wasabeef]'s excellent [Android Version].
 * [Progress Views](#progress-views) - [file](/pages/ProgressViews.md)
 * [Refresh Controls](#refresh-controls) - [file](/pages/RefreshControls.md)
 * [Side Menu](#side-menu) - [file](/pages/SideMenu.md)
-* [Tab Bars](#tab-bars) t- [file](/pages/TabBars.md)
+* [Tab Bars](#tab-bars) - [file](/pages/TabBars.md)
 * [Table/Collection Views](#tablecollection-views) - [file](/pages/TableCollectionViews.md)
 * [User Input](#user-input) - [file](/pages/UserInput.md)
 
