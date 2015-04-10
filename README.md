@@ -35,6 +35,7 @@ Name | License | Demo
 [RKNotificationHub](https://github.com/cwRichardKim/RKNotificationHub) <br> [![](http://gh-btns.cjwirth.com/stars/cwRichardKim/RKNotificationHub)](https://github.com/cwRichardKim/RKNotificationHub/stargazers) | [MIT] | <img src="/assets/RKNotificationHub1.gif">
 [BBBadgeBarButtonItem](https://github.com/TanguyAladenise/BBBadgeBarButtonItem) <br> [![](http://gh-btns.cjwirth.com/stars/TanguyAladenise/BBBadgeBarButtonItem)](https://github.com/TanguyAladenise/BBBadgeBarButtonItem/stargazers) | [MIT] | <img src="/assets/BBBadgeBarButtonItem1.png">
 [JSBadgeView](https://github.com/JaviSoto/JSBadgeView) <br> [![](http://gh-btns.cjwirth.com/stars/JaviSoto/JSBadgeView)](https://github.com/JaviSoto/JSBadgeView/stargazers) | [MIT] | <img src="/assets/JSBadgeView1.png"> <img src="/assets/JSBadgeView2.png">
+[UIView+MGBadgeView](https://github.com/matteogobbi/UIView-MGBadgeView) <br> [![](http://gh-btns.cjwirth.com/stars/matteogobbi/UIView-MGBadgeView)](https://github.com/matteogobbi/UIView-MGBadgeView/stargazers) | [MIT] | <img src="https://camo.githubusercontent.com/1b509c9fbc80e1b3c67435f4f9d5660479a2d384/687474703a2f2f6935372e74696e797069632e636f6d2f317a62716b6e6c2e706e67" width="55%">
 
 Effects
 =====================
@@ -53,6 +54,7 @@ Name | License | Demo
 [RKDropdownAlert](https://github.com/cwRichardKim/RKDropdownAlert) <br> [![](http://gh-btns.cjwirth.com/stars/cwRichardKim/RKDropdownAlert)](https://github.com/cwRichardKim/RKDropdownAlert/stargazers) | [MIT] | <img src="/assets/RKDropdownAlert1.gif" width="49%"> <img src="/assets/RKDropdownAlert2.gif" width="49%">
 [SimpleAlert](https://github.com/KyoheiG3/SimpleAlert) <br> [![](http://gh-btns.cjwirth.com/stars/KyoheiG3/SimpleAlert)](https://github.com/KyoheiG3/SimpleAlert/stargazers) | [MIT] | <img src="/assets/SimpleAlert1.gif">
 [JFMinimalNotifications](https://github.com/atljeremy/JFMinimalNotifications) <br> [![](http://gh-btns.cjwirth.com/stars/atljeremy/JFMinimalNotifications)](https://github.com/atljeremy/JFMinimalNotifications/stargazers) | [MIT] | <img src="/assets/JFMinimalNotifications1.gif" width="49%"> <img src="/assets/JFMinimalNotifications2.gif" width="49%"> <img src="/assets/JFMinimalNotifications3.jpeg">
+[MGFashionMenuView](https://github.com/matteogobbi/MGFashionMenuView) <br> [![](http://gh-btns.cjwirth.com/stars/matteogobbi/MGFashionMenuView)](https://github.com/matteogobbi/MGFashionMenuView/stargazers) | [MIT] | <img src="https://camo.githubusercontent.com/4d1b2931eef09156a38dad6ac86cbce8b0ec2143/687474703a2f2f7777772e6d617474656f676f6262692e69742f66696c65732d686f7374696e672f566964656f5f4d4746617368696f6e4d656e75566965772e676966" width="55%">
 
 Photo and Video
 =====================
@@ -114,6 +116,7 @@ Name | License | Demo
 [CSStickyHeaderFlowLayout](https://github.com/jamztang/CSStickyHeaderFlowLayout) <br> [![](http://gh-btns.cjwirth.com/stars/jamztang/CSStickyHeaderFlowLayout)](https://github.com/jamztang/CSStickyHeaderFlowLayout/stargazers) | [MIT] | <img src="/assets/CSStickyHeaderFlowLayout1.gif" width="49%"> <img src="/assets/CSStickyHeaderFlowLayout2.gif" width="49%"> <img src="/assets/CSStickyHeaderFlowLayout3.gif" width="49%">
 [BLKFlexibleHeightBar](https://github.com/jamztang/BLKFlexibleHeightBar) <br> [![](http://gh-btns.cjwirth.com/stars/jamztang/BLKFlexibleHeightBar)](https://github.com/jamztang/BLKFlexibleHeightBar/stargazers) | [MIT] | <img src="/assets/BLKFlexibleHeightBar1.gif" width="49%"> <img src="/assets/BLKFlexibleHeightBar2.gif" width="49%">
 [SAParallaxViewControllerSwift](https://github.com/szk-atmosphere/SAParallaxViewControllerSwift) <br> [![](http://gh-btns.cjwirth.com/stars/szk-atmosphere/SAParallaxViewControllerSwift)](https://github.com/szk-atmosphere/SAParallaxViewControllerSwift/stargazers) | [MIT] | <img src="/assets/SAParallaxViewControllerSwift1.gif"> <img src="/assets/SAParallaxViewControllerSwift2.gif">
+[MGSpotyViewController](https://github.com/matteogobbi/MGSpotyViewController) <br> [![](http://gh-btns.cjwirth.com/stars/matteogobbi/MGSpotyViewController)](https://github.com/matteogobbi/MGSpotyViewController/stargazers) | [MIT] | <img src="https://camo.githubusercontent.com/20ccae14b0cfbee5bcd3867df4e2c5c51909d989/687474703a2f2f7777772e6d617474656f676f6262692e69742f66696c65732d686f7374696e672f4d4753706f747956696577566964656f2d736d616c6c65722e676966">
 
 User Input
 =====================
@@ -122,7 +125,7 @@ Name | License | Demo
 [RKRichTextView](https://github.com/ren6/RKRichTextView) <br> [![](http://gh-btns.cjwirth.com/stars/ren6/RKRichTextView)](https://github.com/ren6/RKRichTextView/stargazers) | [MIT] | <img src="/assets/RKRichTextView1.png">
 [ZSSRichTextEditor](https://github.com/nnhubbard/ZSSRichTextEditor) <br> [![](http://gh-btns.cjwirth.com/stars/nnhubbard/ZSSRichTextEditor)](https://github.com/nnhubbard/ZSSRichTextEditor/stargazers) | [MIT] | <img src="/assets/ZSSRichTextEditor1.gif">
 [RichEditorView](https://github.com/cjwirth/RichEditorView) <br> [![](http://gh-btns.cjwirth.com/stars/cjwirth/RichEditorView)](https://github.com/cjwirth/RichEditorView/stargazers) | [BSD-3] | <img src="/assets/RichEditorView1.gif">
-
+[MGConferenceDatePicker](https://github.com/matteogobbi/MGConferenceDatePicker) <br> [![](http://gh-btns.cjwirth.com/stars/matteogobbi/MGConferenceDatePicker)](https://github.com/matteogobbi/MGConferenceDatePicker/stargazers) | [MIT] | <img src="https://camo.githubusercontent.com/2d05d142773041b048ad777201f90d6ac32832bc/687474703a2f2f6935372e74696e797069632e636f6d2f32696c6e3565762e706e67" width="55%">
 
 [wasabeef]: https://github.com/wasabeef
 [Android Version]: https://github.com/wasabeef/awesome-android-ui
