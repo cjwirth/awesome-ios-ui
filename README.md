@@ -53,6 +53,7 @@ Name | License | Demo
 [RKDropdownAlert](https://github.com/cwRichardKim/RKDropdownAlert) <br> [![](http://gh-btns.cjwirth.com/stars/cwRichardKim/RKDropdownAlert)](https://github.com/cwRichardKim/RKDropdownAlert/stargazers) | [MIT] | <img src="/assets/RKDropdownAlert1.gif" width="49%"> <img src="/assets/RKDropdownAlert2.gif" width="49%">
 [SimpleAlert](https://github.com/KyoheiG3/SimpleAlert) <br> [![](http://gh-btns.cjwirth.com/stars/KyoheiG3/SimpleAlert)](https://github.com/KyoheiG3/SimpleAlert/stargazers) | [MIT] | <img src="/assets/SimpleAlert1.gif">
 [JFMinimalNotifications](https://github.com/atljeremy/JFMinimalNotifications) <br> [![](http://gh-btns.cjwirth.com/stars/atljeremy/JFMinimalNotifications)](https://github.com/atljeremy/JFMinimalNotifications/stargazers) | [MIT] | <img src="/assets/JFMinimalNotifications1.gif" width="49%"> <img src="/assets/JFMinimalNotifications2.gif" width="49%"> <img src="/assets/JFMinimalNotifications3.jpeg">
+[MGFashionMenuView](https://github.com/matteogobbi/MGFashionMenuView) <br> [![](http://gh-btns.cjwirth.com/stars/matteogobbi/MGFashionMenuView)](https://github.com/matteogobbi/MGFashionMenuView/stargazers) | [MIT] | <img src="/assets/MGFashionMenuView1.gif">
 
 Photo and Video
 =====================
@@ -113,7 +114,8 @@ Name | License | Demo
 [DSDynamicScrollView](https://github.com/damirstuhec/DSDynamicScrollView) <br> [![](http://gh-btns.cjwirth.com/stars/damirstuhec/DSDynamicScrollView)](https://github.com/damirstuhec/DSDynamicScrollView/stargazers) | MIT | <img src="/assets/DSDynamicScrollView1.gif">
 [CSStickyHeaderFlowLayout](https://github.com/jamztang/CSStickyHeaderFlowLayout) <br> [![](http://gh-btns.cjwirth.com/stars/jamztang/CSStickyHeaderFlowLayout)](https://github.com/jamztang/CSStickyHeaderFlowLayout/stargazers) | [MIT] | <img src="/assets/CSStickyHeaderFlowLayout1.gif" width="49%"> <img src="/assets/CSStickyHeaderFlowLayout2.gif" width="49%"> <img src="/assets/CSStickyHeaderFlowLayout3.gif" width="49%">
 [BLKFlexibleHeightBar](https://github.com/jamztang/BLKFlexibleHeightBar) <br> [![](http://gh-btns.cjwirth.com/stars/jamztang/BLKFlexibleHeightBar)](https://github.com/jamztang/BLKFlexibleHeightBar/stargazers) | [MIT] | <img src="/assets/BLKFlexibleHeightBar1.gif" width="49%"> <img src="/assets/BLKFlexibleHeightBar2.gif" width="49%">
-[SAParallaxViewControllerSwift](https://github.com/szk-atmosphere/SAParallaxViewControllerSwift) <br> [![](http://gh-btns.cjwirth.com/stars/szk-atmosphere/SAParallaxViewControllerSwift)](https://github.com/szk-atmosphere/SAParallaxViewControllerSwift/stargazers) | [MIT] | <img src="/assets/SAParallaxViewControllerSwift1.gif"> <img src="/assets/SAParallaxViewControllerSwift2.gif">
+[SAParallaxViewControllerSwift](https://github.com/szk-atmosphere/SAParallaxViewControllerSwift) <br> [![](http://gh-btns.cjwirth.com/stars/szk-atmosphere/SAParallaxViewControllerSwift)](https://github.com/szk-atmosphere/SAParallaxViewControllerSwift/stargazers) | [MIT] | <img src="/assets/SAParallaxViewControllerSwift1.gif">
+[MGSpotyViewController](https://github.com/matteogobbi/MGSpotyViewController) <br> [![](http://gh-btns.cjwirth.com/stars/matteogobbi/MGSpotyViewController)](https://github.com/matteogobbi/MGSpotyViewController/stargazers) | [MIT] | <img src="/assets/MGSpotyViewController1.gif">
 
 User Input
 =====================
