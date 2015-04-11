@@ -19,7 +19,7 @@ Inspired by [wasabeef]'s excellent [Android Version].
 
 Animations and Transitions
 =====================
-Name | License | Demo
+Name | License | Demo | Language
 --- | --- | ---
 [AnimatedTransitionGallery](https://github.com/shu223/AnimatedTransitionGallery) <br> [![](http://gh-btns.cjwirth.com/stars/shu223/AnimatedTransitionGallery)](https://github.com/shu223/AnimatedTransitionGallery/stargazers) | [Unknown](https://github.com/shu223/AnimatedTransitionGallery/issues/5) | <img src="/assets/AnimatedTransitionGallery1.gif">
 [RZTransitions](https://github.com/Raizlabs/RZTransitions) <br> [![](http://gh-btns.cjwirth.com/stars/Raizlabs/RZTransitions)](https://github.com/Raizlabs/RZTransitions/stargazers) | [MIT] | <img src="/assets/RZTransitions1.gif" width="49%">
@@ -38,7 +38,7 @@ Name | License | Demo
 
 Effects
 =====================
-Name | License | Demo
+Name | License | Demo 
 --- | --- | ---
 [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) <br> [![](http://gh-btns.cjwirth.com/stars/Flipboard/FLAnimatedImage)](https://github.com/Flipboard/FLAnimatedImage/stargazers) | [MIT] | <img src="/assets/FLAnimatedImage1.gif" width="49%">
 [PulsingHalo](https://github.com/shu223/PulsingHalo) <br> [![](http://gh-btns.cjwirth.com/stars/shu223/PulsingHalo)](https://github.com/shu223/PulsingHalo/stargazers) | [MIT] | <img src="/assets/PulsingHalo1.gif">
