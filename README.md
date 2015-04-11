@@ -19,7 +19,7 @@ Inspired by [wasabeef]'s excellent [Android Version].
 
 Animations and Transitions
 =====================
-Name | License | Demo | Language
+Name | License | Demo | Language |
 --- | --- | ---
 [AnimatedTransitionGallery](https://github.com/shu223/AnimatedTransitionGallery) <br> [![](http://gh-btns.cjwirth.com/stars/shu223/AnimatedTransitionGallery)](https://github.com/shu223/AnimatedTransitionGallery/stargazers) | [Unknown](https://github.com/shu223/AnimatedTransitionGallery/issues/5) | <img src="/assets/AnimatedTransitionGallery1.gif">
 [RZTransitions](https://github.com/Raizlabs/RZTransitions) <br> [![](http://gh-btns.cjwirth.com/stars/Raizlabs/RZTransitions)](https://github.com/Raizlabs/RZTransitions/stargazers) | [MIT] | <img src="/assets/RZTransitions1.gif" width="49%">
