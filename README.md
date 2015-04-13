@@ -110,6 +110,7 @@ Repo | Demo
 [FoldingTabBar.iOS](https://github.com/Yalantis/FoldingTabBar.iOS) <br> [![](http://gh-btns.cjwirth.com/stars/Yalantis/FoldingTabBar.iOS)](https://github.com/Yalantis/FoldingTabBar.iOS/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/FoldingTabBar.iOS1.gif">
 [GGTabBar](https://github.com/Goles/GGTabBar) <br> [![](http://gh-btns.cjwirth.com/stars/Goles/GGTabBar)](https://github.com/Goles/GGTabBar/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/GGTabBar1.png">
 [BFPaperTabBarController](https://github.com/bfeher/BFPaperTabBarController) <br> [![](http://gh-btns.cjwirth.com/stars/bfeher/BFPaperTabBarController)](https://github.com/bfeher/BFPaperTabBarController/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/BFPaperTabBarController1.gif">
+[Adaptive Tab Bar](https://github.com/Ramotion/adaptive-tab-bar) <br> [![](http://gh-btns.cjwirth.com/stars/Ramotion/adaptive-tab-bar)](https://github.com/Ramotion/adaptive-tab-bar/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/adaptive-tab-bar.gif">
 
 
 Table/Collection Views
