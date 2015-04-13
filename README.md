@@ -27,6 +27,7 @@ Name | License | Demo
 [PMTween](https://github.com/poetmountain/PMTween) <br> [![](http://gh-btns.cjwirth.com/stars/poetmountain/PMTween)](https://github.com/poetmountain/PMTween/stargazers) | [MIT] | <img src="/assets/PMTween1.gif">  <img src="/assets/PMTween2.gif"> 
 [KLCPopup](https://github.com/jmascia/KLCPopup) <br> [![](http://gh-btns.cjwirth.com/stars/jmascia/KLCPopup)](https://github.com/jmascia/KLCPopup/stargazers) | [MIT] | <img src="/assets/KLCPopup1.gif" width="49%">
 [MZFormSheetController](https://github.com/m1entus/MZFormSheetController) <br> [![](http://gh-btns.cjwirth.com/stars/m1entus/MZFormSheetController)](https://github.com/m1entus/MZFormSheetController/stargazers) | [MIT] | <img src="/assets/MZFormSheetController1.png" width="49%"> <img src="/assets/MZFormSheetController2.gif" width="49%">
+[SAHistoryNavigationViewController](https://github.com/szk-atmosphere/SAHistoryNavigationViewController) <br> [![](http://gh-btns.cjwirth.com/stars/szk-atmosphere/SAHistoryNavigationViewController)](https://github.com/szk-atmosphere/SAHistoryNavigationViewController/stargazers) | [MIT] | <img src="/assets/SAHistoryNavigationViewController1.gif" width="49%">
 
 Badges
 =====================
