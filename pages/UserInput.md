@@ -6,6 +6,7 @@ Repo | Demo
 [ZSSRichTextEditor](https://github.com/nnhubbard/ZSSRichTextEditor) <br> [![](http://gh-btns.cjwirth.com/stars/nnhubbard/ZSSRichTextEditor)](https://github.com/nnhubbard/ZSSRichTextEditor/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/ZSSRichTextEditor1.gif">
 [RichEditorView](https://github.com/cjwirth/RichEditorView) <br> [![](http://gh-btns.cjwirth.com/stars/cjwirth/RichEditorView)](https://github.com/cjwirth/RichEditorView/stargazers) <br> Language: Swift <br> License: [BSD-3][BSD-3] | <img src="/assets/RichEditorView1.gif">
 [TextFieldEffects](https://github.com/raulriera/TextFieldEffects) <br> [![](http://gh-btns.cjwirth.com/stars/raulriera/TextFieldEffects)](https://github.com/raulriera/TextFieldEffects/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/TextFieldEffects.gif">
+[SlackTextViewController](https://github.com/slackhq/SlackTextViewController) <br> [![](http://gh-btns.cjwirth.com/stars/slackhq/SlackTextViewController)](https://github.com/slackhq/SlackTextViewController/stargazers) <br> Language: Obj-C <br> License: [Apache v2][Apache v2] | <img src="/assets/SlackTextViewController1.gif">
 
 [MIT]: http://opensource.org/licenses/MIT
 [Apache v2]: https://www.apache.org/licenses/LICENSE-2.0
