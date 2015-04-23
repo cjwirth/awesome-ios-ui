@@ -9,6 +9,7 @@ Inspired by [wasabeef]'s excellent [Android Version].
 * [Badges](#badges) - [file](/pages/Badges.md)
 * [Effects](#effects) - [file](/pages/Effects.md)
 * [Notifications and Alerts](#notifications-and-alerts) - [file](/pages/NotificationsAlerts.md)
+* [Onboarding and Tutorials](#onboarding-and-tutorials) - [file](/pages/Onboarding.md)
 * [Photo and Video](#photo-and-video) - [file](/pages/PhotoVideo.md)
 * [Progress Views](#progress-views) - [file](/pages/ProgressViews.md)
 * [RefreshControls](#refreshcontrols) - [file](/pages/RefreshControls.md)
@@ -59,6 +60,15 @@ Repo | Demo
 [SimpleAlert](https://github.com/KyoheiG3/SimpleAlert) <br> [![](http://gh-btns.cjwirth.com/stars/KyoheiG3/SimpleAlert)](https://github.com/KyoheiG3/SimpleAlert/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/SimpleAlert1.gif">
 [JFMinimalNotifications](https://github.com/atljeremy/JFMinimalNotifications) <br> [![](http://gh-btns.cjwirth.com/stars/atljeremy/JFMinimalNotifications)](https://github.com/atljeremy/JFMinimalNotifications/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/JFMinimalNotifications1.gif" width="49%" > <img src="/assets/JFMinimalNotifications2.gif" width="49%" > <img src="/assets/JFMinimalNotifications3.jpeg">
 [MGFashionMenuView](https://github.com/matteogobbi/MGFashionMenuView) <br> [![](http://gh-btns.cjwirth.com/stars/matteogobbi/MGFashionMenuView)](https://github.com/matteogobbi/MGFashionMenuView/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/MGFashionMenuView1.gif">
+
+
+Onboarding and Tutorials
+========================
+Repo | Demo
+--- | ---
+[JazzHands](https://github.com/IFTTT/JazzHands) <br> [![](http://gh-btns.cjwirth.com/stars/IFTTT/JazzHands)](https://github.com/IFTTT/JazzHands/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/JazzHands1.gif">
+[MYBlurIntroductionView](https://github.com/MatthewYork/MYBlurIntroductionView) <br> [![](http://gh-btns.cjwirth.com/stars/MatthewYork/MYBlurIntroductionView)](https://github.com/MatthewYork/MYBlurIntroductionView/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/MYBlurIntroductionView1.gif" width="49%" >
+[Onboard](https://github.com/mamaral/Onboard) <br> [![](http://gh-btns.cjwirth.com/stars/mamaral/Onboard)](https://github.com/mamaral/Onboard/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/Onboard1.gif" width="49%" >
 
 
 Photo and Video
