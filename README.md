@@ -28,6 +28,7 @@ Repo | Demo
 [PMTween](https://github.com/poetmountain/PMTween) <br> [![](http://gh-btns.cjwirth.com/stars/poetmountain/PMTween)](https://github.com/poetmountain/PMTween/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/PMTween1.gif"> <img src="/assets/PMTween2.gif">
 [SAHistoryNavigationViewController](https://github.com/szk-atmosphere/SAHistoryNavigationViewController) <br> [![](http://gh-btns.cjwirth.com/stars/szk-atmosphere/SAHistoryNavigationViewController)](https://github.com/szk-atmosphere/SAHistoryNavigationViewController/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/SAHistoryNavigationViewController1.gif">
 [WobbleView](https://github.com/inFullMobile/WobbleView) <br> [![](http://gh-btns.cjwirth.com/stars/inFullMobile/WobbleView)](https://github.com/inFullMobile/WobbleView/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/wobble-view.gif">
+[CBZSplashView](https://github.com/callumboddy/CBZSplashView) <br> [![](http://gh-btns.cjwirth.com/stars/callumboddy/CBZSplashView)](https://github.com/callumboddy/CBZSplashView/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/CBZSplashView1.gif" width="49%" >
 
 
 Badges
@@ -58,6 +59,8 @@ Repo | Demo
 [SimpleAlert](https://github.com/KyoheiG3/SimpleAlert) <br> [![](http://gh-btns.cjwirth.com/stars/KyoheiG3/SimpleAlert)](https://github.com/KyoheiG3/SimpleAlert/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/SimpleAlert1.gif">
 [JFMinimalNotifications](https://github.com/atljeremy/JFMinimalNotifications) <br> [![](http://gh-btns.cjwirth.com/stars/atljeremy/JFMinimalNotifications)](https://github.com/atljeremy/JFMinimalNotifications/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/JFMinimalNotifications1.gif" width="49%" > <img src="/assets/JFMinimalNotifications2.gif" width="49%" > <img src="/assets/JFMinimalNotifications3.jpeg">
 [MGFashionMenuView](https://github.com/matteogobbi/MGFashionMenuView) <br> [![](http://gh-btns.cjwirth.com/stars/matteogobbi/MGFashionMenuView)](https://github.com/matteogobbi/MGFashionMenuView/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/MGFashionMenuView1.gif">
+[KLCPopup](https://github.com/jmascia/KLCPopup) <br> [![](http://gh-btns.cjwirth.com/stars/jmascia/KLCPopup)](https://github.com/jmascia/KLCPopup/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/KLCPopup1.gif" width="49%" >
+[MZFormSheetController](https://github.com/m1entus/MZFormSheetController) <br> [![](http://gh-btns.cjwirth.com/stars/m1entus/MZFormSheetController)](https://github.com/m1entus/MZFormSheetController/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/MZFormSheetController1.png" width="49%" > <img src="/assets/MZFormSheetController2.gif" width="49%" >
 
 
 Onboarding and Tutorials
