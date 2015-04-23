@@ -4,6 +4,10 @@ awesome-ios-ui
 A curated list of awesome iOS UI/UX libraries.
 Inspired by [wasabeef]'s excellent [Android Version].
 
+### Contributing
+
+Found a UI/UX library that you think is _awesome_?? Want to share it with the world? Add your repo's information to my [awesome-creator], where I keep the library metadata!
+
 ### Index
 * [Animations and Transitions](#animations-and-transitions) - [file](/pages/Animations.md)
 * [Badges](#badges) - [file](/pages/Badges.md)
@@ -155,6 +159,7 @@ Repo | Demo
 
 [wasabeef]: https://github.com/wasabeef
 [Android Version]: https://github.com/wasabeef/awesome-android-ui
+[awesome-creator]: https://github.com/cjwirth/awesome-creator
 [MIT]: http://opensource.org/licenses/MIT
 [Apache v2]: https://www.apache.org/licenses/LICENSE-2.0
 [BSD-2]: http://opensource.org/licenses/BSD-2-Clause
