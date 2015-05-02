@@ -155,7 +155,7 @@ Repo | Demo
 [SlackTextViewController](https://github.com/slackhq/SlackTextViewController) <br> [![](http://gh-btns.cjwirth.com/stars/slackhq/SlackTextViewController)](https://github.com/slackhq/SlackTextViewController/stargazers) <br> Language: Obj-C <br> License: [Apache v2][Apache v2] | <img src="/assets/SlackTextViewController1.gif">
 [JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField) <br> [![](http://gh-btns.cjwirth.com/stars/jverdi/JVFloatLabeledTextField)](https://github.com/jverdi/JVFloatLabeledTextField/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/JVFloatLabeledTextField1.gif" width="100%" >
 [UpvoteControl](https://github.com/raulriera/UpvoteControl) <br> [![](http://gh-btns.cjwirth.com/stars/raulriera/UpvoteControl)](https://github.com/raulriera/UpvoteControl/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/UpvoteControl.gif" width="100%" >
-
+[LoadingButton](https://github.com/raulriera/LoadingButton) <br> [![](http://gh-btns.cjwirth.com/stars/raulriera/LoadingButton)](https://github.com/raulriera/LoadingButton/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/LoadingButton.gif" width="100%" >
 
 
 [wasabeef]: https://github.com/wasabeef
