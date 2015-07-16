@@ -11,6 +11,7 @@ Repo | Demo
 [SAParallaxViewControllerSwift](https://github.com/szk-atmosphere/SAParallaxViewControllerSwift) <br> [![](http://gh-btns.cjwirth.com/stars/szk-atmosphere/SAParallaxViewControllerSwift)](https://github.com/szk-atmosphere/SAParallaxViewControllerSwift/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/SAParallaxViewControllerSwift1.gif">
 [MGSpotyViewController](https://github.com/matteogobbi/MGSpotyViewController) <br> [![](http://gh-btns.cjwirth.com/stars/matteogobbi/MGSpotyViewController)](https://github.com/matteogobbi/MGSpotyViewController/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/MGSpotyViewController1.gif">
 [RAReorderableLayout](https://github.com/ra1028/RAReorderableLayout) <br> [![](http://gh-btns.cjwirth.com/stars/ra1028/RAReorderableLayout)](https://github.com/ra1028/RAReorderableLayout/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/RAReorderableLayout1.gif">
+[YXTPageView](https://github.com/hanton/YXTPageView) <br> [![](http://gh-btns.cjwirth.com/stars/hanton/YXTPageView)](https://github.com/hanton/YXTPageView/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/YXTPageView.gif">
 
 [MIT]: http://opensource.org/licenses/MIT
 [Apache v2]: https://www.apache.org/licenses/LICENSE-2.0
