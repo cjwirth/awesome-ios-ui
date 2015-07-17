@@ -85,6 +85,7 @@ Repo | Demo
 [MHVideoPhotoGallery](https://github.com/mariohahn/MHVideoPhotoGallery) <br> [![](http://gh-btns.cjwirth.com/stars/mariohahn/MHVideoPhotoGallery)](https://github.com/mariohahn/MHVideoPhotoGallery/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/MHVideoPhotoGallery1.gif" width="49%" > <img src="/assets/MHVideoPhotoGallery2.gif" width="49%" > <img src="/assets/MHVideoPhotoGallery3.gif" width="49%" > <img src="/assets/MHVideoPhotoGallery4.gif" width="49%" >
 [EBPhotoPages](https://github.com/EddyBorja/EBPhotoPages) <br> [![](http://gh-btns.cjwirth.com/stars/EddyBorja/EBPhotoPages)](https://github.com/EddyBorja/EBPhotoPages/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/EBPhotoPages1.png" width="49%" > <img src="/assets/EBPhotoPages2.png" width="49%" > <img src="/assets/EBPhotoPages3.png" width="49%" > <img src="/assets/EBPhotoPages4.png" width="49%" >
 [ASMediaFocusManager](https://github.com/autresphere/ASMediaFocusManager) <br> [![](http://gh-btns.cjwirth.com/stars/autresphere/ASMediaFocusManager)](https://github.com/autresphere/ASMediaFocusManager/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/ASMediaFocusManager1.gif"> <img src="/assets/ASMediaFocusManager2.gif">
+[YXTMotionView](https://github.com/hanton/YXTMotionView) <br> [![](http://gh-btns.cjwirth.com/stars/hanton/YXTMotionView)](https://github.com/hanton/YXTMotionView/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/YXTMotionView.gif">
 
 
 Progress Views
@@ -143,6 +144,7 @@ Repo | Demo
 [SAParallaxViewControllerSwift](https://github.com/szk-atmosphere/SAParallaxViewControllerSwift) <br> [![](http://gh-btns.cjwirth.com/stars/szk-atmosphere/SAParallaxViewControllerSwift)](https://github.com/szk-atmosphere/SAParallaxViewControllerSwift/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/SAParallaxViewControllerSwift1.gif">
 [MGSpotyViewController](https://github.com/matteogobbi/MGSpotyViewController) <br> [![](http://gh-btns.cjwirth.com/stars/matteogobbi/MGSpotyViewController)](https://github.com/matteogobbi/MGSpotyViewController/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/MGSpotyViewController1.gif">
 [RAReorderableLayout](https://github.com/ra1028/RAReorderableLayout) <br> [![](http://gh-btns.cjwirth.com/stars/ra1028/RAReorderableLayout)](https://github.com/ra1028/RAReorderableLayout/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/RAReorderableLayout1.gif">
+[YXTPageView](https://github.com/hanton/YXTPageView) <br> [![](http://gh-btns.cjwirth.com/stars/hanton/YXTPageView)](https://github.com/hanton/YXTPageView/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/YXTPageView.gif">
 
 
 User Input
