@@ -95,7 +95,8 @@ Repo | Demo
 [MRProgress](https://github.com/mrackwitz/MRProgress) <br> [![](http://gh-btns.cjwirth.com/stars/mrackwitz/MRProgress)](https://github.com/mrackwitz/MRProgress/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/MRProgress2.jpg"> <img src="/assets/MRProgress4.jpg"> <img src="/assets/MRProgress6.jpg">
 [M13ProgressSuite](https://github.com/Marxon13/M13ProgressSuite) <br> [![](http://gh-btns.cjwirth.com/stars/Marxon13/M13ProgressSuite)](https://github.com/Marxon13/M13ProgressSuite/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/M13ProgressSuite1.gif"> <img src="/assets/M13ProgressSuite2.gif"> <img src="/assets/M13ProgressSuite3.gif"> <img src="/assets/M13ProgressSuite4.gif"> <img src="/assets/M13ProgressSuite5.gif"> <img src="/assets/M13ProgressSuite6.gif"> <img src="/assets/M13ProgressSuite7.gif"> <img src="/assets/M13ProgressSuite8.gif">
 [FFCircularProgressView](https://github.com/elbryan/FFCircularProgressView) <br> [![](http://gh-btns.cjwirth.com/stars/elbryan/FFCircularProgressView)](https://github.com/elbryan/FFCircularProgressView/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/FFCircularProgressView1.gif">
-[GaugeKit](https://github.com/skywinder/GaugeKit) <br> [![](http://gh-btns.cjwirth.com/stars/skywinder/GaugeKit)](https://github.com/skywinder/GaugeKit/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/GaugeKit1.gif" width="100%" >
+[GaugeKit](https://github.com/skywinder/GaugeKit) <br> [![](http://gh-btns.cjwirth.com/stars/skywinder/GaugeKit)](https://github.com/skywinder/GaugeKit/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/GaugeKit1.gif">
+
 
 RefreshControls
 ===============
