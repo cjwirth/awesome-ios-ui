@@ -11,7 +11,7 @@ Repo | Demo
 [MGFashionMenuView](https://github.com/matteogobbi/MGFashionMenuView) <br> [![](http://gh-btns.cjwirth.com/stars/matteogobbi/MGFashionMenuView)](https://github.com/matteogobbi/MGFashionMenuView/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/MGFashionMenuView1.gif">
 [KLCPopup](https://github.com/jmascia/KLCPopup) <br> [![](http://gh-btns.cjwirth.com/stars/jmascia/KLCPopup)](https://github.com/jmascia/KLCPopup/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/KLCPopup1.gif" width="49%" >
 [MZFormSheetController](https://github.com/m1entus/MZFormSheetController) <br> [![](http://gh-btns.cjwirth.com/stars/m1entus/MZFormSheetController)](https://github.com/m1entus/MZFormSheetController/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/MZFormSheetController1.png" width="49%" > <img src="/assets/MZFormSheetController2.gif" width="49%" >
-[Notie](https://github.com/thii/Notie) <br> [![](http://gh-btns.cjwirth.com/stars/thii/Notie)](https://github.com/thii/Notie/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/Notie1.gif" width="49%" >
+[OEANotification](https://github.com/OEASLAN/OEANotification) <br> [![](http://gh-btns.cjwirth.com/stars/OEASLAN/OEANotification)](https://github.com/OEASLAN/OEANotification/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/OEANotification.gif">
 
 [MIT]: http://opensource.org/licenses/MIT
 [Apache v2]: https://www.apache.org/licenses/LICENSE-2.0
