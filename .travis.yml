@@ -6,3 +6,5 @@ before_script:
 script:
       - awesome_bot README.md
 
+notifications:
+    email: false
