@@ -86,7 +86,8 @@ Repo | Demo
 [MHVideoPhotoGallery](https://github.com/mariohahn/MHVideoPhotoGallery) <br> [![](http://gh-btns.cjwirth.com/stars/mariohahn/MHVideoPhotoGallery)](https://github.com/mariohahn/MHVideoPhotoGallery/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/MHVideoPhotoGallery1.gif" width="49%" > <img src="/assets/MHVideoPhotoGallery2.gif" width="49%" > <img src="/assets/MHVideoPhotoGallery3.gif" width="49%" > <img src="/assets/MHVideoPhotoGallery4.gif" width="49%" >
 [EBPhotoPages](https://github.com/EddyBorja/EBPhotoPages) <br> [![](http://gh-btns.cjwirth.com/stars/EddyBorja/EBPhotoPages)](https://github.com/EddyBorja/EBPhotoPages/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/EBPhotoPages1.png" width="49%" > <img src="/assets/EBPhotoPages2.png" width="49%" > <img src="/assets/EBPhotoPages3.png" width="49%" > <img src="/assets/EBPhotoPages4.png" width="49%" >
 [ASMediaFocusManager](https://github.com/autresphere/ASMediaFocusManager) <br> [![](http://gh-btns.cjwirth.com/stars/autresphere/ASMediaFocusManager)](https://github.com/autresphere/ASMediaFocusManager/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/ASMediaFocusManager1.gif"> <img src="/assets/ASMediaFocusManager2.gif">
-[VideoSplash](https://github.com/movielala/VideoSplashKit) <br> [![](http://gh-btns.cjwirth.com/stars/toygard/VideoSplash)](https://github.com/movielala/VideoSplashKit/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/VideoSplash1.gif">
+[VideoSplashKit](https://github.com/movielala/VideoSplashKit) <br> [![](http://gh-btns.cjwirth.com/stars/movielala/VideoSplashKit)](https://github.com/movielala/VideoSplashKit/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/VideoSplash1.gif">
+
 
 Progress Views
 ==============
@@ -158,7 +159,7 @@ Repo | Demo
 [TextFieldEffects](https://github.com/raulriera/TextFieldEffects) <br> [![](http://gh-btns.cjwirth.com/stars/raulriera/TextFieldEffects)](https://github.com/raulriera/TextFieldEffects/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/TextFieldEffects.gif">
 [SlackTextViewController](https://github.com/slackhq/SlackTextViewController) <br> [![](http://gh-btns.cjwirth.com/stars/slackhq/SlackTextViewController)](https://github.com/slackhq/SlackTextViewController/stargazers) <br> Language: Obj-C <br> License: [Apache v2][Apache v2] | <img src="/assets/SlackTextViewController1.gif">
 [JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField) <br> [![](http://gh-btns.cjwirth.com/stars/jverdi/JVFloatLabeledTextField)](https://github.com/jverdi/JVFloatLabeledTextField/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/JVFloatLabeledTextField1.gif" width="100%" >
-[ActionSheetPicker-3.0](https://github.com/skywinder/ActionSheetPicker-3.0) <br> Language: Obj-C <br> License: [BSD-3][BSD-3] | <img src="/assets/ActionSheetPicker3.gif">
+[ActionSheetPicker-3.0](https://github.com/skywinder/ActionSheetPicker-3.0) <br> [![](http://gh-btns.cjwirth.com/stars/skywinder/ActionSheetPicker-3.0)](https://github.com/skywinder/ActionSheetPicker-3.0/stargazers) <br> Language: Obj-C <br> License: [BSD-3][BSD-3] | <img src="/assets/ActionSheetPicker3.gif">
 [HTYTextField](https://github.com/hanton/HTYTextField) <br> [![](http://gh-btns.cjwirth.com/stars/hanton/HTYTextField)](https://github.com/hanton/HTYTextField/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/HTYTextField1.gif">
 
 
