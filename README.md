@@ -12,6 +12,7 @@ Found a UI/UX library that you think is _awesome_?? Want to share it with the wo
 * [Animations and Transitions](#animations-and-transitions) - [file](/pages/Animations.md)
 * [Badges](#badges) - [file](/pages/Badges.md)
 * [Effects](#effects) - [file](/pages/Effects.md)
+* [Material Design](#material-design) - [file](/pages/MaterialDesign.md)
 * [Notifications and Alerts](#notifications-and-alerts) - [file](/pages/NotificationsAlerts.md)
 * [Onboarding and Tutorials](#onboarding-and-tutorials) - [file](/pages/Onboarding.md)
 * [Photo and Video](#photo-and-video) - [file](/pages/PhotoVideo.md)
@@ -51,6 +52,14 @@ Repo | Demo
 [FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) <br> [![](http://gh-btns.cjwirth.com/stars/Flipboard/FLAnimatedImage)](https://github.com/Flipboard/FLAnimatedImage/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/FLAnimatedImage1.gif" width="49%" >
 [PulsingHalo](https://github.com/shu223/PulsingHalo) <br> [![](http://gh-btns.cjwirth.com/stars/shu223/PulsingHalo)](https://github.com/shu223/PulsingHalo/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/PulsingHalo1.gif">
 [UITextField-Shake](https://github.com/andreamazz/UITextField-Shake) <br> [![](http://gh-btns.cjwirth.com/stars/andreamazz/UITextField-Shake)](https://github.com/andreamazz/UITextField-Shake/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/UITextField-Shake1.gif">
+
+
+Material Design
+===============
+Repo | Demo
+--- | ---
+[Material](https://github.com/CosmicMind/Material) <br> [![](http://gh-btns.cjwirth.com/stars/CosmicMind/Material)](https://github.com/CosmicMind/Material/stargazers) <br> Language: Swift <br> License: [BSD-3][BSD-3] | <img src="/assets/Material1.gif"> <img src="/assets/Material2.gif"> <img src="/assets/Material3.gif">
+[MaterialKit](https://github.com/nghialv/MaterialKit) <br> [![](http://gh-btns.cjwirth.com/stars/nghialv/MaterialKit)](https://github.com/nghialv/MaterialKit/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/MaterialKit1.gif">
 
 
 Notifications and Alerts
