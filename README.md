@@ -96,6 +96,7 @@ Repo | Demo
 [JazzHands](https://github.com/IFTTT/JazzHands) <br> [![](http://gh-btns.cjwirth.com/stars/IFTTT/JazzHands)](https://github.com/IFTTT/JazzHands/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/JazzHands1.gif">
 [MYBlurIntroductionView](https://github.com/MatthewYork/MYBlurIntroductionView) <br> [![](http://gh-btns.cjwirth.com/stars/MatthewYork/MYBlurIntroductionView)](https://github.com/MatthewYork/MYBlurIntroductionView/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/MYBlurIntroductionView1.gif" width="49%" >
 [Onboard](https://github.com/mamaral/Onboard) <br> [![](http://gh-btns.cjwirth.com/stars/mamaral/Onboard)](https://github.com/mamaral/Onboard/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/Onboard1.gif" width="49%" >
+[AlertOnboarding](https://github.com/PhilippeBoisney/AlertOnboarding) <br> [![](http://gh-btns.cjwirth.com/stars/PhilippeBoisney/AlertOnboarding)](https://github.com/PhilippeBoisney/AlertOnboarding/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/Alertonboarding1.png" width="49%" > <img src="/assets/Alertonboarding2.gif" width="49%" >
 
 
 Photo and Video
