@@ -10,6 +10,8 @@ Repo | Demo
 [JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField) <br> [![](http://gh-btns.cjwirth.com/stars/jverdi/JVFloatLabeledTextField)](https://github.com/jverdi/JVFloatLabeledTextField/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/JVFloatLabeledTextField1.gif" width="100%" >
 [ActionSheetPicker-3.0](https://github.com/skywinder/ActionSheetPicker-3.0) <br> [![](http://gh-btns.cjwirth.com/stars/skywinder/ActionSheetPicker-3.0)](https://github.com/skywinder/ActionSheetPicker-3.0/stargazers) <br> Language: Obj-C <br> License: [BSD-3][BSD-3] | <img src="/assets/ActionSheetPicker3.gif">
 [HTYTextField](https://github.com/hanton/HTYTextField) <br> [![](http://gh-btns.cjwirth.com/stars/hanton/HTYTextField)](https://github.com/hanton/HTYTextField/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/HTYTextField1.gif">
+[CurrencyTextField](https://github.com/richa008/CurrencyTextField) <br> [![](http://gh-btns.cjwirth.com/stars/richa008/CurrencyTextField)](https://github.com/richa008/CurrencyTextField/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/CurrencyTextFieldExample.gif" >
+
 
 [MIT]: http://opensource.org/licenses/MIT
 [Apache v2]: https://www.apache.org/licenses/LICENSE-2.0
