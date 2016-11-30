@@ -132,7 +132,7 @@ Repo | Demo
 [mntpulltoreact](https://github.com/mentionapp/mntpulltoreact) <br> [![](http://gh-btns.cjwirth.com/stars/mentionapp/mntpulltoreact)](https://github.com/mentionapp/mntpulltoreact/stargazers) <br> Language: Obj-C <br> License: [Apache v2][Apache v2] | <img src="/assets/MNTPullToReact1.gif">
 [UzysCircularProgressPullToRefresh](https://github.com/uzysjung/UzysCircularProgressPullToRefresh) <br> [![](http://gh-btns.cjwirth.com/stars/uzysjung/UzysCircularProgressPullToRefresh)](https://github.com/uzysjung/UzysCircularProgressPullToRefresh/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/UzysCircularProgressPullToRefresh1.gif">
 [PullToRefreshCoreText](https://github.com/cemolcay/PullToRefreshCoreText) <br> [![](http://gh-btns.cjwirth.com/stars/cemolcay/PullToRefreshCoreText)](https://github.com/cemolcay/PullToRefreshCoreText/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/PullToRefreshCoreText1.gif">
-
+[JHPullToRefreshKit](https://github.com/jhurray/JHPullToRefreshKit) <br> [![](http://gh-btns.cjwirth.com/stars/jhurray/JHPullToRefreshKit)](https://github.com/jhurray/JHPullToRefreshKit/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/JHPullToRefreshKit-google.gif" width="32%" > <img src="/assets/JHPullToRefreshKit-yahoo.gif" width="32%" > <img src="/assets/JHPullToRefreshKit-bubbles.gif" width="32%" >
 
 Side Menu
 =========
