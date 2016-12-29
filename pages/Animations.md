@@ -9,6 +9,7 @@ Repo | Demo
 [SAHistoryNavigationViewController](https://github.com/szk-atmosphere/SAHistoryNavigationViewController) <br> [![](http://gh-btns.cjwirth.com/stars/szk-atmosphere/SAHistoryNavigationViewController)](https://github.com/szk-atmosphere/SAHistoryNavigationViewController/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/SAHistoryNavigationViewController1.gif">
 [WobbleView](https://github.com/inFullMobile/WobbleView) <br> [![](http://gh-btns.cjwirth.com/stars/inFullMobile/WobbleView)](https://github.com/inFullMobile/WobbleView/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/wobble-view.gif">
 [CBZSplashView](https://github.com/callumboddy/CBZSplashView) <br> [![](http://gh-btns.cjwirth.com/stars/callumboddy/CBZSplashView)](https://github.com/callumboddy/CBZSplashView/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/CBZSplashView1.gif" width="49%" >
+[barceloneta](https://github.com/arn00s/barceloneta) <br> [![](http://gh-btns.cjwirth.com/stars/arn00s/barceloneta)](https://github.com/arn00s/barceloneta/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/barceloneta.gif" width="49%" >
 
 [MIT]: http://opensource.org/licenses/MIT
 [Apache v2]: https://www.apache.org/licenses/LICENSE-2.0
