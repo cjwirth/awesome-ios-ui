@@ -143,6 +143,7 @@ Repo | Demo
 [TWTSideMenuViewController](https://github.com/twotoasters/TWTSideMenuViewController) <br> [![](http://gh-btns.cjwirth.com/stars/twotoasters/TWTSideMenuViewController)](https://github.com/twotoasters/TWTSideMenuViewController/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/TWTSideMenuViewController1.gif">
 [AMSlideMenu](https://github.com/SocialObjects-Software/AMSlideMenu) <br> [![](http://gh-btns.cjwirth.com/stars/SocialObjects-Software/AMSlideMenu)](https://github.com/SocialObjects-Software/AMSlideMenu/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/AMSlideMenu1.gif">
 [CariocaMenu](https://github.com/arn00s/cariocamenu) <br> [![](http://gh-btns.cjwirth.com/stars/arn00s/CariocaMenu)](https://github.com/arn00s/CariocaMenu/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/cariocamenu.gif">
+[InteractiveSideMenu](https://github.com/handsomecode/InteractiveSideMenu) <br> [![](http://gh-btns.cjwirth.com/stars/handsomecode/InteractiveSideMenu)](https://github.com/handsomecode/InteractiveSideMenu/stargazers) <br> Language: Swift <br> License: [Apache v2][Apache v2] | <img src="/assets/InteractiveSideMenu.gif">
 
 
 Tab Bars
