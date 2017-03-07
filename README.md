@@ -183,6 +183,7 @@ Repo | Demo
 [JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField) <br> [![](http://gh-btns.cjwirth.com/stars/jverdi/JVFloatLabeledTextField)](https://github.com/jverdi/JVFloatLabeledTextField/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/JVFloatLabeledTextField1.gif" width="100%" >
 [ActionSheetPicker-3.0](https://github.com/skywinder/ActionSheetPicker-3.0) <br> [![](http://gh-btns.cjwirth.com/stars/skywinder/ActionSheetPicker-3.0)](https://github.com/skywinder/ActionSheetPicker-3.0/stargazers) <br> Language: Obj-C <br> License: [BSD-3][BSD-3] | <img src="/assets/ActionSheetPicker3.gif">
 [HTYTextField](https://github.com/hanton/HTYTextField) <br> [![](http://gh-btns.cjwirth.com/stars/hanton/HTYTextField)](https://github.com/hanton/HTYTextField/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/HTYTextField1.gif">
+[ModernSearchBar](https://github.com/PhilippeBoisney/ModernSearchBar) <br> <br> Language: Swift <br> License: [Apache v2][Apache v2] | <img src="https://github.com/PhilippeBoisney/ModernSearchBar/raw/master/Gifs/Gif_complex_list.gif">
 
 
 
