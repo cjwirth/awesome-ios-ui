@@ -50,7 +50,7 @@ Calendars
 =========
 Repo | Demo
 --- | ---
-[FSCalendar](https://github.com/WenchaoIOS/FSCalendar) <br> [![](http://gh-btns.cjwirth.com/stars/WenchaoIOS/FSCalendar)](https://github.com/WenchaoIOS/FSCalendar/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/FSCalendar1.jpg">
+[FSCalendar](https://github.com/WenchaoD/FSCalendar) <br> [![](http://gh-btns.cjwirth.com/stars/WenchaoD/FSCalendar)](https://github.com/WenchaoD/FSCalendar/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/FSCalendar1.jpg">
 [GLCalendarView](https://github.com/Glow-Inc/GLCalendarView) <br> [![](http://gh-btns.cjwirth.com/stars/Glow-Inc/GLCalendarView)](https://github.com/Glow-Inc/GLCalendarView/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/GLCalendarView1.gif">
 [JTCalendar](https://github.com/jonathantribouharet/JTCalendar) <br> [![](http://gh-btns.cjwirth.com/stars/jonathantribouharet/JTCalendar)](https://github.com/jonathantribouharet/JTCalendar/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/JTCalendar1.gif"> <img src="/assets/JTCalendar2.png">
 
@@ -96,6 +96,7 @@ Repo | Demo
 [JazzHands](https://github.com/IFTTT/JazzHands) <br> [![](http://gh-btns.cjwirth.com/stars/IFTTT/JazzHands)](https://github.com/IFTTT/JazzHands/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/JazzHands1.gif">
 [MYBlurIntroductionView](https://github.com/MatthewYork/MYBlurIntroductionView) <br> [![](http://gh-btns.cjwirth.com/stars/MatthewYork/MYBlurIntroductionView)](https://github.com/MatthewYork/MYBlurIntroductionView/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/MYBlurIntroductionView1.gif" width="49%" >
 [Onboard](https://github.com/mamaral/Onboard) <br> [![](http://gh-btns.cjwirth.com/stars/mamaral/Onboard)](https://github.com/mamaral/Onboard/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/Onboard1.gif" width="49%" >
+[AlertOnboarding](https://github.com/PhilippeBoisney/AlertOnboarding) <br> [![](http://gh-btns.cjwirth.com/stars/PhilippeBoisney/AlertOnboarding)](https://github.com/PhilippeBoisney/AlertOnboarding/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/Alertonboarding1.png" width="49%" > <img src="/assets/Alertonboarding2.gif" width="49%" >
 
 
 Photo and Video
@@ -183,14 +184,15 @@ Repo | Demo
 [JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField) <br> [![](http://gh-btns.cjwirth.com/stars/jverdi/JVFloatLabeledTextField)](https://github.com/jverdi/JVFloatLabeledTextField/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/JVFloatLabeledTextField1.gif" width="100%" >
 [ActionSheetPicker-3.0](https://github.com/skywinder/ActionSheetPicker-3.0) <br> [![](http://gh-btns.cjwirth.com/stars/skywinder/ActionSheetPicker-3.0)](https://github.com/skywinder/ActionSheetPicker-3.0/stargazers) <br> Language: Obj-C <br> License: [BSD-3][BSD-3] | <img src="/assets/ActionSheetPicker3.gif">
 [HTYTextField](https://github.com/hanton/HTYTextField) <br> [![](http://gh-btns.cjwirth.com/stars/hanton/HTYTextField)](https://github.com/hanton/HTYTextField/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/HTYTextField1.gif">
+[ModernSearchBar](https://github.com/PhilippeBoisney/ModernSearchBar) <br> <br> Language: Swift <br> License: [Apache v2][Apache v2] | <img src="https://github.com/PhilippeBoisney/ModernSearchBar/raw/master/Gifs/Gif_complex_list.gif">
 
 
 
 [wasabeef]: https://github.com/wasabeef
 [Android Version]: https://github.com/wasabeef/awesome-android-ui
 [awesome-creator]: https://github.com/cjwirth/awesome-creator
-[MIT]: http://opensource.org/licenses/MIT
+[MIT]: https://opensource.org/licenses/MIT
 [Apache v2]: https://www.apache.org/licenses/LICENSE-2.0
-[BSD-2]: http://opensource.org/licenses/BSD-2-Clause
-[BSD-3]: http://opensource.org/licenses/BSD-3-Clause
+[BSD-2]: https://opensource.org/licenses/BSD-2-Clause
+[BSD-3]: https://opensource.org/licenses/BSD-3-Clause
 [Unknown]: https://github.com/shu223/AnimatedTransitionGallery/issues/5
