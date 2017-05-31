@@ -8,6 +8,7 @@ Repo | Demo
 [FFCircularProgressView](https://github.com/elbryan/FFCircularProgressView) <br> [![](http://gh-btns.cjwirth.com/stars/elbryan/FFCircularProgressView)](https://github.com/elbryan/FFCircularProgressView/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/FFCircularProgressView1.gif">
 [GaugeKit](https://github.com/skywinder/GaugeKit) <br> [![](http://gh-btns.cjwirth.com/stars/skywinder/GaugeKit)](https://github.com/skywinder/GaugeKit/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/GaugeKit1.gif">
 [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) <br> [![](http://gh-btns.cjwirth.com/stars/ninjaprox/NVActivityIndicatorView)](https://github.com/ninjaprox/NVActivityIndicatorView/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/NVActivityIndicatorView1.gif">
+[SendIndicator](https://github.com/LeonardoCardoso/SendIndicator) <br> [![](http://gh-btns.cjwirth.com/stars/LeonardoCardoso/SendIndicator)](https://github.com/LeonardoCardoso/SendIndicator/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/SendIndicator.gif">
 
 [MIT]: http://opensource.org/licenses/MIT
 [Apache v2]: https://www.apache.org/licenses/LICENSE-2.0
